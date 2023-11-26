@@ -13,8 +13,6 @@ function App() {
       })
   })
 
-
-
   return (
 
     <>
@@ -29,9 +27,6 @@ function App() {
           </div>
         })
       }
-
-
-
     </>
   )
 }
